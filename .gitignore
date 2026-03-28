@@ -1,0 +1,19 @@
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large / generated files
+*.zip
+weights/
+checkpoints/
+outputs/
+results/
+logs/
+
+# Model files
+*.pth
+*.pt
+*.ckpt
